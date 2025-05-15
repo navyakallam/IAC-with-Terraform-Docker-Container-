@@ -52,7 +52,7 @@ Provision a local NGINX web server inside a Docker container using Terraform. Ve
 
 ## Screenshots
 
-Screenshots are stored in the `screenshots/` folder and include:
+All screenshots related to the task have been uploaded individually as .png files in the main repository directory:
 
 - Terraform initialization
 - Terraform planning
